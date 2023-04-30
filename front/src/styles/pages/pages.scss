@@ -1,0 +1,13 @@
+@import "./home.scss";
+
+.page {
+  width: 100vw;
+  min-height: 90vh;
+
+  &.home {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+}

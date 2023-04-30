@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./colors.scss";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "@fortawesome/fontawesome-free/css/v4-shims.min.css";
+@import "./main.scss";
+@import "./pages/pages.scss";
+@import "./components/food.scss";
+@import "./components/life.scss";
